@@ -1,0 +1,23 @@
+name*****team****cost****points
+Martinez [AVL]-->5.5 --> 10
+james    [CHE]-->5.5 --> 13
+Chilwell [CHE]-->5.8 --> 12
+Cresswell[WHU]-->5.5 --> 12
+Alex     [LIV]-->7.6 --> 10
+Mount    [CHE]-->7.5 --> 24
+Salah    [LIV]-->12.9--> 24
+Foden    [MCI]-->8.1 --> 18
+Cornet   [BUR]-->6.0 --> 15 
+King     [WAT]-->5.6 --> 16
+Dennis   [WAT]-->5.2 --> 12
+raw points = 166
+captaining salah +24
+Vice captaining Foden +12
+Maximum possible points for GW 9 = 202
+Actual highest points = 165
+team value = 75.2
+
+note: i) bench boost, and a full team i.e, subs have been omitted
+     ii) tripple captaining has not been considered
+  hence, this data is incomplete and biased
+

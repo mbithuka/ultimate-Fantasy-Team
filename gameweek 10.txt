@@ -1,0 +1,20 @@
+name*****team****cost****points
+Ramsdale    [ARS]-->4.7 --> 10
+James       [CHE]-->5.7 --> 21
+Gabriel     [ARS]-->5.0 --> 15
+Omobamidele [NOR]-->3.9 --> 10
+Gallagher   [LIV]-->7.6 --> 13
+Rice        [WHU]-->5.0 --> 13
+Bowen       [WHU]-->6.3--> 11
+Henderson   [LIV]-->5.0 --> 10
+Ronaldo   [MUN]-->12.4--> 12
+Jimenez     [WOL]-->7.6--> 9
+Cavani   [MUN]--> --8.4> 8
+raw points = 132
+captaining james +21
+Vice captaining Gabriel + 7
+Maximum possible points for GW 10 = 160
+Actual highest points = 116
+team value = 71.6
+### for team value, only the cost of playing players is considered,
+### benched players are not considered.
